@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2017/12/20 14:05:41,10,http://localhost/CRM/login.html,404,Not Found,Thread Group 1-1,text,false,,1151,0,1,1,10,0,0
+2017/12/20 14:05:41,2,http://localhost/CRM/system/login,404,Not Found,Thread Group 1-1,text,false,,1155,0,1,1,2,0,0
+2017/12/20 14:05:41,1,http://localhost/CRM/index,404,Not Found,Thread Group 1-1,text,false,,1141,0,1,1,1,0,0
+2017/12/20 14:05:41,1,http://localhost/CRM/system/menu,404,Not Found,Thread Group 1-1,text,false,,1153,0,1,1,1,0,0
+2017/12/20 14:05:41,0,http://localhost/CRM/system/users/list,404,Not Found,Thread Group 1-1,text,false,,1165,0,1,1,0,0,0
+2017/12/20 14:05:41,1,http://localhost/CRM/system/users/listUsers,404,Not Found,Thread Group 1-1,text,false,,1176,0,1,1,1,0,0
+2017/12/20 14:05:41,1,http://localhost/CRM/system/users/listUsers,404,Not Found,Thread Group 1-1,text,false,,1176,0,1,1,1,0,0
+2017/12/20 14:05:41,2,http://localhost/CRM/system/users/assign,404,Not Found,Thread Group 1-1,text,false,,1169,0,1,1,2,0,0
+1970/01/01 08:00:00,0,,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Host may not be blank,Thread Group 1-1,text,false,,1360,0,1,1,0,0,0
+2017/12/20 14:05:41,2,http://localhost/CRM/system/users/assign,404,Not Found,Thread Group 1-1,text,false,,1169,0,1,1,2,0,0
+2017/12/20 14:05:41,1,http://localhost/CRM/system/users/listUsers,404,Not Found,Thread Group 1-1,text,false,,1176,0,1,1,1,0,0
